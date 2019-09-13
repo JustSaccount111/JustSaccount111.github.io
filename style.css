@@ -1,0 +1,13 @@
+h1 {
+	color: red;
+	font-size: 48px;
+	font-family: 'Helvetica';
+    }
+p {color: yellow;}
+.subtitle{font-size: 25px}
+#mainimg {width: 180px}
+#llava{display: flex;
+flex-direction: row;
+justify-content: space-evently}
+#pprava{display: flex;
+flex-direction: row;}
